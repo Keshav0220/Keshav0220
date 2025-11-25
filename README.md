@@ -2,8 +2,9 @@
 <h3 align="center">Python & Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/Keshav0220.png" width="150" style="border-radius:50%">
+  <img src="https://github.com/Keshav0220.png" width="150" style="border-radius: 50%">
 </p>
+
 
 ---
 
