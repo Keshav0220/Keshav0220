@@ -72,8 +72,8 @@ I love working with **AI models, ML pipelines, automation systems, and smart app
 
 ### 📫 Contact Me  
 - 📍 Delhi, India  
-- 💼 LinkedIn: *add your link here*  
-- ✉️ Email: *add your email here*  
+- 💼 LinkedIn: www.linkedin.com/in/keshav0220  
+- ✉️ Email: keshavsingh01110@gmail.com  
 
 ---
 
