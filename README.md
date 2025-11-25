@@ -9,36 +9,36 @@
 
 ### 🚀 About Me  
 I am a **Python & Machine Learning Engineer** passionate about building intelligent and impactful solutions.  
-I love creating **AI models, ML pipelines, automation systems, and smart applications** that solve real-world problems.
+I specialize in **AI models, ML pipelines, automation systems, and data-driven applications** that solve real-world problems.
 
 ---
 
 ### 🧠 What I Do
 - Build **Machine Learning & Deep Learning models**  
-- Develop **AI applications** using Python  
-- Create **end-to-end ML workflows & pipelines**  
-- Work with **APIs, backend systems, and automation**  
+- Develop **AI-powered applications**  
+- Create **end-to-end ML workflows**  
+- Work with **APIs, backends & automation**  
 - Write **clean, scalable, production-ready code**  
 
 ---
 
 ### 🔧 Tech Stack
 
-#### **Languages**
-- Python    
+#### **Programming**
+- Python  
 
-#### **ML / AI**
+#### **AI / ML**
 - NumPy, Pandas  
 - Scikit-Learn  
 - TensorFlow, PyTorch  
 - OpenCV  
-- NLP, Transformers, Text Models  
+- NLP, Transformers  
 
 #### **Tools**
 - Git & GitHub  
 - VS Code  
-- Firebase  
 - FastAPI / Flask  
+- Firebase  
 - Jupyter Notebook  
 
 ---
@@ -47,12 +47,12 @@ I love creating **AI models, ML pipelines, automation systems, and smart applica
 
 | Project | Description |
 |--------|-------------|
-| 🔮 **AI Virtual Time Machine** | A futuristic AI engine generating historical & future news with images |
+| 🔮 **AI Virtual Time Machine** | AI engine generating historical & future news with images |
 | 🧠 **Resume Analyzer (ML)** | AI-powered resume scoring & job-matching system |
-| 📰 **Fake News Detector** | NLP model for real vs fake news classification |
-| 🔍 **7 Days Python Challenge** | My Python learning journey + practical examples |
+| 📰 **Fake News Detector** | NLP model for fake vs real news classification |
+| 🔍 **7 Days Python Challenge** | My Python learning journey with practical examples |
 
-> More projects coming soon as I continue building & learning!
+> More projects coming soon!
 
 ---
 
@@ -71,5 +71,5 @@ I love creating **AI models, ML pipelines, automation systems, and smart applica
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+⭐ **Thanks for visiting!**  
 Always learning, building, and exploring the world of AI 🚀
