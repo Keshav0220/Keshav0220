@@ -8,33 +8,31 @@
 ---
 
 ### 🚀 About Me  
-I am a **Python & Machine Learning Engineer** passionate about building intelligent, impactful solutions.  
-I love working with **AI models, ML pipelines, automation systems, and smart applications** that solve real-world problems.
+I am a **Python & Machine Learning Engineer** passionate about building intelligent and impactful solutions.  
+I love creating **AI models, ML pipelines, automation systems, and smart applications** that solve real-world problems.
 
 ---
 
 ### 🧠 What I Do
 - Build **Machine Learning & Deep Learning models**  
 - Develop **AI applications** using Python  
-- Create **end-to-end ML pipelines**  
+- Create **end-to-end ML workflows & pipelines**  
 - Work with **APIs, backend systems, and automation**  
-- Design **clean, scalable code for production-ready AI**  
+- Write **clean, scalable, production-ready code**  
 
 ---
 
 ### 🔧 Tech Stack
 
 #### **Languages**
-- Python  
-- JavaScript  
-- HTML & CSS  
+- Python    
 
 #### **ML / AI**
 - NumPy, Pandas  
 - Scikit-Learn  
 - TensorFlow, PyTorch  
 - OpenCV  
-- NLP models & Transformers
+- NLP, Transformers, Text Models  
 
 #### **Tools**
 - Git & GitHub  
@@ -49,33 +47,29 @@ I love working with **AI models, ML pipelines, automation systems, and smart app
 
 | Project | Description |
 |--------|-------------|
-| 🔮 **AI Virtual Time Machine** | A futuristic AI engine that generates historical & future news with images |
-| 🧠 **Resume Analyzer (ML)** | AI-powered smart resume scoring & job-matching system |
-| 📰 **Fake News Detector** | ML model to classify real vs fake news (NLP) |
-| 🔍 **7 Days Python Challenge** | My Python learning journey + code examples |
+| 🔮 **AI Virtual Time Machine** | A futuristic AI engine generating historical & future news with images |
+| 🧠 **Resume Analyzer (ML)** | AI-powered resume scoring & job-matching system |
+| 📰 **Fake News Detector** | NLP model for real vs fake news classification |
+| 🔍 **7 Days Python Challenge** | My Python learning journey + practical examples |
 
-> More projects coming soon as I keep learning & building!
+> More projects coming soon as I continue building & learning!
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav0220&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav0220&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshav0220&show_icons=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav0220&theme=transparent" width="48%" />
 </p>
 
 ---
 
 ### 📫 Contact Me  
 - 📍 Delhi, India  
-- 💼 LinkedIn: www.linkedin.com/in/keshav0220  
-- ✉️ Email: keshavsingh01110@gmail.com  
+- 💼 LinkedIn: **https://www.linkedin.com/in/keshav0220**  
+- ✉️ Email: **keshavsingh01110@gmail.com**  
 
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-I’m always learning, building, and exploring the world of AI 🚀
+Always learning, building, and exploring the world of AI 🚀
