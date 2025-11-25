@@ -60,21 +60,11 @@ I specialize in **AI models, ML pipelines, automation systems, and data-driven a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keshav0220&show_icons=true&theme=github_dark&hide_border=true"
-    width="48%" 
-  />
-  <img 
     src="https://streak-stats.demolab.com?user=Keshav0220&theme=github-dark&hide_border=true"
     width="48%" 
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keshav0220&layout=compact&theme=github_dark&hide_border=true"
-    width="40%" 
-  />
-</p>
 
 
 ---
